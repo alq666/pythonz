@@ -18,11 +18,11 @@ Installation
 
 The recommended way to download and install pythonz is to run these statements in your shell::
 
-  curl -kL https://raw.github.com/saghul/pythonz/master/pythonz-install | bash
+  curl -kL https://raw.github.com/alq666/pythonz/master/pythonz-install | bash
 
 or::
 
-  fetch -o - https://raw.github.com/saghul/pythonz/master/pythonz-install | bash
+  fetch -o - https://raw.github.com/alq666/pythonz/master/pythonz-install | bash
 
 After that, pythonz installs itself to ``~/.pythonz``.
 
@@ -33,7 +33,7 @@ Please add the following line to the end of your ``~/.bashrc``::
 If you need to install pythonz into somewhere else, you can do that by setting a ``PYTHONZ_ROOT`` environment variable::
 
   export PYTHONZ_ROOT=/path/to/pythonz
-  curl -kLO https://raw.github.com/saghul/pythonz/master/pythonz-install
+  curl -kLO https://raw.github.com/alq666/pythonz/master/pythonz-install
   chmod +x pythonz-install
   ./pythonz-install
 

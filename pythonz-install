@@ -80,7 +80,7 @@ fi
 PATH_DISTS="$ROOT/dists"
 
 TEMP_TARBALL="pythonz-latest.tar.gz"
-DOWNLOAD_URL="https://github.com/saghul/pythonz/tarball/master"
+DOWNLOAD_URL="https://github.com/alq666/pythonz/tarball/master"
 
 mkdir -p "$PATH_DISTS"
 rm -rf "$PATH_DISTS/pythonz*"
