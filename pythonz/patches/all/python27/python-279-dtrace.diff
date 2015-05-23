@@ -1,13 +1,3 @@
-diff --git a/.hgignore b/.hgignore
---- a/.hgignore
-+++ b/.hgignore
-@@ -63,3 +63,6 @@
- coverage/
- externals/
- htmlcov/
-+Include/pydtrace.h
-+Include/pydtrace_offsets
-+Include/pydtrace_offsets.h
 diff --git a/Doc/library/debug.rst b/Doc/library/debug.rst
 --- a/Doc/library/debug.rst
 +++ b/Doc/library/debug.rst
